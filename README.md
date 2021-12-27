@@ -25,6 +25,9 @@
   <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
+  <img
+            src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png"
+            alt="react" width="40" height="40" />
   
 </p>
 
