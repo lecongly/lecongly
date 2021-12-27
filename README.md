@@ -25,14 +25,14 @@
   <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
-  <img
-            src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png"
-            alt="react" width="40" height="40" />
   <a href="https://sass-lang.com/" target="_blank" title ="Scss"> <img
             src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png"
-            alt="react" width="40" height="40" /> </a>
+            alt="scss" width="40" height="40" /> </a>
   <a href="https://git-scm.com/" target="_blank" title ="Scss"> <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQaLfWgsguiSbK-KlIReE7K9QMZCyyxjOj20u5k95QdeuL_KPt8bzkNZ9PNXhZYUhFpE&usqp=CAU"
+            alt="react" width="40" height="40" /> </a>
+    <a href="https://npmjs.com/" target="_blank" title ="Scss"> <img
+            src="https://mechasolution.vn/source/blog/nodepi/npm-logo.png"
             alt="react" width="40" height="40" /> </a>
   
 </p>
