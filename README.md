@@ -1,7 +1,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Le Cong Ly** <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" width="400" align="right"/>
+- :credit_card: My full name is **Le Cong Ly** <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" width="400" align="right" border-radius="20px"/>
 - :school: I'm currently 2nd year student at **FPT University - Da Nang Campus**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Da Nang City, Viet Nam**
