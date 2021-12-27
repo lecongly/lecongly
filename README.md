@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Le Cong Ly** <img src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif" width="400" align="right"/>
+- :credit_card: My full name is **Le Cong Ly** <img src="https://monophy.com/media/du3J3cXyzhj75IOgvA/monophy.gif" width="300" align="right"/>
 - :school: I'm currently 2nd year student at **FPT University - Da Nang Campus**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Da Nang City, Viet Nam**
@@ -47,7 +47,6 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Tien Huynh lecongly
 </div>
 
 ------
