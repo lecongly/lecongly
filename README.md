@@ -30,10 +30,16 @@
             alt="scss" width="40" height="40" /> </a>
   <a href="https://git-scm.com/" target="_blank" title ="Scss"> <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQaLfWgsguiSbK-KlIReE7K9QMZCyyxjOj20u5k95QdeuL_KPt8bzkNZ9PNXhZYUhFpE&usqp=CAU"
-            alt="react" width="40" height="40" /> </a>
-    <a href="https://npmjs.com/" target="_blank" title ="Scss"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"
-            alt="react" width="40" height="40" /> </a>
+            alt="git" width="40" height="40" /> </a>
+  <a href="https://npmjs.com/" target="_blank" title ="npm"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png"
+            alt="npm" width="40" height="40" /> </a>
+  <a href="https://nodejs.org/en/" target="_blank" title ="node"> <img
+            src="https://bachasoftware.com/wp-content/uploads/elementor/thumbs/nodejslogo-p3zvdhaajh0bxurlgqp1gszveuzuf58gd4auf7uve8.png"
+            alt="node" width="40" height="40" /> </a>
+  <a href="https://www.mongodb.com/" target="_blank" title ="Mongo"> <img
+            src="https://cdn.holistics.io/landing/other_data_sources/mongodb.png"
+            alt="mongo" width="40" height="40" /> </a>
   
 </p>
 
