@@ -32,7 +32,7 @@
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQaLfWgsguiSbK-KlIReE7K9QMZCyyxjOj20u5k95QdeuL_KPt8bzkNZ9PNXhZYUhFpE&usqp=CAU"
             alt="react" width="40" height="40" /> </a>
     <a href="https://npmjs.com/" target="_blank" title ="Scss"> <img
-            src="https://mechasolution.vn/source/blog/nodepi/npm-logo.png"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png"
             alt="react" width="40" height="40" /> </a>
   
 </p>
